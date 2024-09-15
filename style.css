@@ -1,0 +1,23 @@
+nav{
+    display:flex;    
+    background-color: aqua;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+nav li{
+    list-style: none;
+    padding: 0 23px;
+}
+
+.tittleTag{
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+}
+
+.card-body{
+    background-color: lightyellow;
+}
